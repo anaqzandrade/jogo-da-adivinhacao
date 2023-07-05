@@ -2,4 +2,4 @@
 
 > Status do projeto: Finalizado.
 
-> Jogo criado a partir das aulas de c++ da plataforma Alura. obs: alguns pontos foram aprimorados.
+> Jogo criado a partir das aulas de C++ da plataforma Alura. obs: alguns pontos foram aprimorados.
